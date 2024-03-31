@@ -53,6 +53,9 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 "shift width
 set shiftwidth=4
 
+"mouse scroll
+set mouse=a
+
 "smart indent
 set autoindent
 set smartindent
